@@ -6,9 +6,9 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author:
-authorEmoji:
-pinned: true
+# author:
+# authorEmoji:
+# pinned: true
 tags:
 - hugo
 series:
