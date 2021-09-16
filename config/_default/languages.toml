@@ -1,3 +1,10 @@
+[ja]
+  title = "busitora blog"
+  languageName = "日本語"
+  languagedir = "ltr"
+  weight = 1
+  contentdir = "content/ja"
+
 [ko]
   title = "쪼식이 블로그"
   languageName = "한국어"
