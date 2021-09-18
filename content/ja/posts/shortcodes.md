@@ -1,5 +1,5 @@
 ---
-title: "Shortcodes"
+title: "ショートコード"
 date: 2020-01-25T06:40:51+09:00
 description: tabs, code-tabs, expand, alert, warning, notice, img, box
 draft: false
@@ -46,7 +46,7 @@ Make it easy to switch between different code
   ```javascript
   console.log('Hello World!');
   ```
-  
+
   {{< /code >}}
 {{< /codes >}}
 
