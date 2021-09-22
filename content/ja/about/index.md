@@ -38,7 +38,7 @@ date = "2021/09/11"
 
   ### エンジニア
 
-  技術 : Rails/Ruby/React
+  技術 : Rails/Ruby ちょっとReact
   歴 : 2020/04 ~
   勉強中 : AWS/フロント全般
 
