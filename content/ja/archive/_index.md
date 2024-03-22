@@ -6,4 +6,4 @@ description: Archive Page
 titleWrap: wrap
 ---
 
-archive page
+記事履歴

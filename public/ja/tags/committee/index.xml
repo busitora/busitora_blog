@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Committee on busitora blog</title>
+    <link>http://localhost:1313/ja/tags/committee/</link>
+    <description>Recent content in Committee on busitora blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>busitora@gmail.com (busitora)</managingEditor>
+    <webMaster>busitora@gmail.com (busitora)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/ja/tags/committee/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>committeeを使ったSchema駆動開発</title>
+        <link>http://localhost:1313/ja/posts/tech/2022/01/22/</link>
+        <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Sat, 22 Jan 2022 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2022/01/22/</guid>
+        <description>実務で、committeeを導入したので、その時のメモを書く。 経緯と問題点 弊社のサービスAは、モノリスなRailsのアプリケーションであるが</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        <media:content url="http://localhost:1313/ruby/committee.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rails</category>
+            
+          
+            
+              <category>committee</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
