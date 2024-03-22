@@ -38,7 +38,9 @@ googleAnalytics = ""
   home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS", "SearchIndex"]
   # taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
+  # taxonomy = ["HTML", "RSS", "SearchIndex"]
+  # 一旦コメントアウト
+
 
 [outputFormats]
   [outputFormats.SearchIndex]
