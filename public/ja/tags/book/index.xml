@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Book on busitora blog</title>
+    <link>http://localhost:1313/ja/tags/book/</link>
+    <description>Recent content in Book on busitora blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>busitora@gmail.com (busitora)</managingEditor>
+    <webMaster>busitora@gmail.com (busitora)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/ja/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>メタプログラミングRuby</title>
+        <link>http://localhost:1313/ja/posts/tech/2021/12/29/</link>
+        <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Wed, 29 Dec 2021 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2021/12/29/</guid>
+        <description>気になっていた。メタプロ。 感想を書いていく。 はじめに RubyやRuby on Railsを使いたい人は読むといいぽい メタプログラミングはLispか</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        <media:content url="http://localhost:1313/images/ruby/metapuro-ruby.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ruby</category>
+            
+          
+            
+              <category>book</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>テスト駆動開発</title>
+        <link>http://localhost:1313/ja/posts/tech/2021/09/22/</link>
+        <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Thu, 23 Sep 2021 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2021/09/22/</guid>
+        <description>はじめに 実務でテストの重要性を嫌というほど感じているので、読む。 自分用メモで気づきメインで書くので、 詳しく知りたい人は購入することを推奨。 こ</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        <media:content url="http://localhost:1313/images/test/test-driven-development.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+            
+              <category>book</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>達人に学ぶDB設計徹底指南書</title>
+        <link>http://localhost:1313/ja/posts/tech/2021/09/19/</link>
+        <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Sun, 19 Sep 2021 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2021/09/19/</guid>
+        <description>はじめに DB設計を、基礎からもう一度学んで みたいと思い達人に学ぶDB設計徹底指南書を購入。 自分用メモで気づきメインで書くので、 詳しく知りたい</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        <media:content url="http://localhost:1313/images/db/db-sinansho.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>book</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
