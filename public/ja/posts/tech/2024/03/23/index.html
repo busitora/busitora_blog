@@ -1678,7 +1678,7 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2024/3/23 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;11&nbsp;分で読めます </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;12&nbsp;分で読めます </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="著者">🐯&nbsp;ブシトラ</span>
   
@@ -1916,7 +1916,25 @@ BASE62 → &lsquo;A&rsquo;～&lsquo;Z&rsquo;、&lsquo;a&rsquo;～&lsquo;z&rsquo;
 <li>ふるえるぞハート！燃えつきるほどヒート！！</li>
 </ul>
 </li>
-<li>Pub/Sub メッセージングとは →</li>
+<li><a href="https://aws.amazon.com/jp/what-is/pub-sub-messaging/">Pub/Sub メッセージングとは</a></li>
+</ul>
+<h2 id="13章-検索オートコンプリートシステムの設計">13章 検索オートコンプリートシステムの設計</h2>
+<p>インクリメンタルサーチや、自動サジェスト</p>
+<ul>
+<li>トライデータ構造 → あるノードの配下の全ノードは、自身に対応する文字列に共通するプレフィックス（接頭部）があり、ルート（根）には空の文字列が対応している。値は一般に全ノードに対応して存在するわけではなく、末端ノードや一部の中間ノードだけがキーに対応した値を格納している</li>
+</ul>
+<h2 id="14章-youtube-の設計">14章 YouTube の設計</h2>
+<ul>
+<li>トランスコーディング → 1つのコーディングから、別のエンコーディングにデータを変換する処理。
+<ul>
+<li>raw動画は大量の記憶領域を消費する。互換性を担保するために、フォーマット対応必須。高品質と低品質で動画を用意するとヨシ。特にモバイルは、ネットワーク状況で高品質と低品質使いこなすことがスムーズ体験には欠かせない</li>
+</ul>
+</li>
+<li>メタデータ → データのためのデータ</li>
+</ul>
+<h2 id="15章-googleドライブの設計">15章 Googleドライブの設計</h2>
+<ul>
+<li>複数環境下からの同期の競合を考える必要性あり</li>
 </ul>
 <h2 id="印象に残った点">印象に残った点</h2>
 <ul>
@@ -1939,7 +1957,15 @@ BASE62 → &lsquo;A&rsquo;～&lsquo;Z&rsquo;、&lsquo;a&rsquo;～&lsquo;z&rsquo;
 </ul>
 </li>
 <li>12章のWebSocket、どこかでしっかりと学んでおきたい。チャットシステムの設計は、かなり力つきそう。１からやってみたい。</li>
+<li>13章の検索、elasticsearch以外で詳しくなりたい
+<ul>
+<li>トライデータ構造をRDBで表現すると、カオスになるが、もし表現するのであれば、検索テーブル自体をマスタで持たせた方が良さそう</li>
 </ul>
+</li>
+<li>14章 メタデータ → jsonbで使うことたまにあるけど、可変しやすいから使うが、PUT必要なら使わんわな</li>
+</ul>
+<p>実際の設計面の話は参考にしつつも、この設計を面接で問いてくる企業はそこまで多くなさそう。<br />
+実際に大きな、7章以降の題材を設計することになった時に、また読みに戻ってくる。</p>
 
     </article>
     
@@ -2714,6 +2740,9 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#10章-通知システムの設計">10章 通知システムの設計</a></li>
     <li><a href="#11章-ニュースフィードシステムの設計">11章 ニュースフィードシステムの設計</a></li>
     <li><a href="#12章-チャットシステムの設計">12章 チャットシステムの設計</a></li>
+    <li><a href="#13章-検索オートコンプリートシステムの設計">13章 検索オートコンプリートシステムの設計</a></li>
+    <li><a href="#14章-youtube-の設計">14章 YouTube の設計</a></li>
+    <li><a href="#15章-googleドライブの設計">15章 Googleドライブの設計</a></li>
     <li><a href="#印象に残った点">印象に残った点</a></li>
   </ul>
 </nav>
