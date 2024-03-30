@@ -58,7 +58,7 @@
         <description>実務で、committeeを導入したので、その時のメモを書く。 経緯と問題点 弊社のサービスAは、モノリスなRailsのアプリケーションであるが</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/ruby/committee.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/ruby/committee.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

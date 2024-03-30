@@ -30,7 +30,7 @@
         <description>そろそろ体系的に学ぶ必要のあるTypeScriptのメモ ORELLYのTypeScriptを読むので、雑にメモしてく。 タイトルごとに区分する</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/typescript/oreilly-typescript.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/typescript/oreilly-typescript.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

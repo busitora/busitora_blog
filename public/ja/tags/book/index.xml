@@ -14,11 +14,35 @@
     <managingEditor>busitora@gmail.com (busitora)</managingEditor>
     <webMaster>busitora@gmail.com (busitora)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://localhost:1313/ja/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>システム設計の面接試験のメモ</title>
+        <link>http://localhost:1313/ja/posts/tech/2024/03/23/</link>
+        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Sat, 23 Mar 2024 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2024/03/23/</guid>
+        <description>輪読会で読むことになったので、メモ 1章 ユーザー数0から数百万人のスケールアップ トラフィックをさばくための説明が多い。 非リレーショナルデータベ</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        <media:content url="http://localhost:1313/images/book/system_interview.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>book</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>メタプログラミングRuby</title>

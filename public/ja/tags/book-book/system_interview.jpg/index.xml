@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Book Book/System_interview.jpg on busitora blog</title>
+    <link>http://localhost:1313/ja/tags/book-book/system_interview.jpg/</link>
+    <description>Recent content in Book Book/System_interview.jpg on busitora blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>busitora@gmail.com (busitora)</managingEditor>
+    <webMaster>busitora@gmail.com (busitora)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/ja/tags/book-book/system_interview.jpg/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>システム設計の面接試験のメモ</title>
+        <link>http://localhost:1313/ja/posts/tech/2024/03/23/</link>
+        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        <author>busitora@gmail.com (busitora)</author>
+        <atom:modified>Sat, 23 Mar 2024 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/ja/posts/tech/2024/03/23/</guid>
+        <description>輪読会で読むことになったので、メモ 1章 ユーザー数0から数百万人のスケールアップ トラフィックをさばくための説明が多い。 非リレーショナルデータベ</description>
+        
+        <dc:creator>ブシトラ</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>book book/system_interview.jpg</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
