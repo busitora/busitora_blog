@@ -10,4 +10,6 @@ https://busitora-blog.netlify.app/ja/
 起動
 ```
 hugo server
+hugo server -D
+<!-- 下書きも -->
 ```

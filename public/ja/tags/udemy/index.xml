@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Udemy on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/udemy/</link>
+    <link>http://localhost:63938/ja/tags/udemy/</link>
     <description>Recent content in Udemy on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/udemy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:63938/ja/tags/udemy/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版</title>
-        <link>http://localhost:1313/ja/posts/tech/2021/10/02/</link>
+        <link>http://localhost:63938/ja/posts/tech/2021/10/02/</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sat, 02 Oct 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:1313/ja/posts/tech/2021/10/02/</guid>
+        <guid>http://localhost:63938/ja/posts/tech/2021/10/02/</guid>
         <description>Reactの選択肢を増やすためにやる セクション3 再レンダリングの仕組みを知り、レンダリングを最適化する ・propsが変更されたコンポーネント</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/images/react/react_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:63938/images/react/react_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -58,15 +58,15 @@
       
       <item>
         <title>モダンJavaScriptの基礎から始める挫折しないためのReact入門</title>
-        <link>http://localhost:1313/ja/posts/tech/2021/09/20/</link>
+        <link>http://localhost:63938/ja/posts/tech/2021/09/20/</link>
         <pubDate>Tue, 21 Sep 2021 13:50:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Tue, 21 Sep 2021 13:50:06 +0900</atom:modified>
-        <guid>http://localhost:1313/ja/posts/tech/2021/09/20/</guid>
+        <guid>http://localhost:63938/ja/posts/tech/2021/09/20/</guid>
         <description>業務でReactを一瞬使ったが、体系的に学んでみたかったので購入。 モダンJavaScriptの基礎から始める挫折しないためのReact入門 ※</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/images/react/react_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:63938/images/react/react_logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

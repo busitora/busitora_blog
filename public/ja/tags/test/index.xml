@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Test on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/test/</link>
+    <link>http://localhost:63938/ja/tags/test/</link>
     <description>Recent content in Test on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/test/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:63938/ja/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>テスト駆動開発</title>
-        <link>http://localhost:1313/ja/posts/tech/2021/09/22/</link>
+        <link>http://localhost:63938/ja/posts/tech/2021/09/22/</link>
         <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Thu, 23 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:1313/ja/posts/tech/2021/09/22/</guid>
+        <guid>http://localhost:63938/ja/posts/tech/2021/09/22/</guid>
         <description>はじめに 実務でテストの重要性を嫌というほど感じているので、読む。 自分用メモで気づきメインで書くので、 詳しく知りたい人は購入することを推奨。 こ</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/images/test/test-driven-development.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:63938/images/test/test-driven-development.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

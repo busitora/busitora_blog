@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/</link>
+    <link>http://localhost:63938/ja/tags/</link>
     <description>Recent content in Tags on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>busitora@gmail.com (busitora)</managingEditor>
     <webMaster>busitora@gmail.com (busitora)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:63938/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Book</title>
-        <link>http://localhost:1313/ja/tags/book/</link>
-        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:63938/ja/tags/book/</link>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/book/</guid>
+        <guid>http://localhost:63938/ja/tags/book/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Index</title>
-        <link>http://localhost:1313/ja/tags/index/</link>
-        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:63938/ja/tags/index/</link>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/index/</guid>
+        <guid>http://localhost:63938/ja/tags/index/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Oreilly</title>
-        <link>http://localhost:1313/ja/tags/oreilly/</link>
+        <link>http://localhost:63938/ja/tags/oreilly/</link>
         <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/oreilly/</guid>
+        <guid>http://localhost:63938/ja/tags/oreilly/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Typescript</title>
-        <link>http://localhost:1313/ja/tags/typescript/</link>
+        <link>http://localhost:63938/ja/tags/typescript/</link>
         <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/typescript/</guid>
+        <guid>http://localhost:63938/ja/tags/typescript/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Rails</title>
-        <link>http://localhost:1313/ja/tags/rails/</link>
+        <link>http://localhost:63938/ja/tags/rails/</link>
         <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/rails/</guid>
+        <guid>http://localhost:63938/ja/tags/rails/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>Rspec</title>
-        <link>http://localhost:1313/ja/tags/rspec/</link>
+        <link>http://localhost:63938/ja/tags/rspec/</link>
         <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/rspec/</guid>
+        <guid>http://localhost:63938/ja/tags/rspec/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>Committee</title>
-        <link>http://localhost:1313/ja/tags/committee/</link>
+        <link>http://localhost:63938/ja/tags/committee/</link>
         <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/committee/</guid>
+        <guid>http://localhost:63938/ja/tags/committee/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>Ruby</title>
-        <link>http://localhost:1313/ja/tags/ruby/</link>
+        <link>http://localhost:63938/ja/tags/ruby/</link>
         <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/ruby/</guid>
+        <guid>http://localhost:63938/ja/tags/ruby/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>Aws</title>
-        <link>http://localhost:1313/ja/tags/aws/</link>
+        <link>http://localhost:63938/ja/tags/aws/</link>
         <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/aws/</guid>
+        <guid>http://localhost:63938/ja/tags/aws/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>Mysql</title>
-        <link>http://localhost:1313/ja/tags/mysql/</link>
+        <link>http://localhost:63938/ja/tags/mysql/</link>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/mysql/</guid>
+        <guid>http://localhost:63938/ja/tags/mysql/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>SQL</title>
-        <link>http://localhost:1313/ja/tags/sql/</link>
+        <link>http://localhost:63938/ja/tags/sql/</link>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/sql/</guid>
+        <guid>http://localhost:63938/ja/tags/sql/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -220,11 +220,11 @@
       
       <item>
         <title>JavaScript</title>
-        <link>http://localhost:1313/ja/tags/javascript/</link>
+        <link>http://localhost:63938/ja/tags/javascript/</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/javascript/</guid>
+        <guid>http://localhost:63938/ja/tags/javascript/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -238,11 +238,11 @@
       
       <item>
         <title>Memo</title>
-        <link>http://localhost:1313/ja/tags/memo/</link>
+        <link>http://localhost:63938/ja/tags/memo/</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/memo/</guid>
+        <guid>http://localhost:63938/ja/tags/memo/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -256,11 +256,11 @@
       
       <item>
         <title>React</title>
-        <link>http://localhost:1313/ja/tags/react/</link>
+        <link>http://localhost:63938/ja/tags/react/</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/react/</guid>
+        <guid>http://localhost:63938/ja/tags/react/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>Udemy</title>
-        <link>http://localhost:1313/ja/tags/udemy/</link>
+        <link>http://localhost:63938/ja/tags/udemy/</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/udemy/</guid>
+        <guid>http://localhost:63938/ja/tags/udemy/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -292,11 +292,11 @@
       
       <item>
         <title>Test</title>
-        <link>http://localhost:1313/ja/tags/test/</link>
+        <link>http://localhost:63938/ja/tags/test/</link>
         <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/test/</guid>
+        <guid>http://localhost:63938/ja/tags/test/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -310,11 +310,11 @@
       
       <item>
         <title>Poem</title>
-        <link>http://localhost:1313/ja/tags/poem/</link>
+        <link>http://localhost:63938/ja/tags/poem/</link>
         <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/poem/</guid>
+        <guid>http://localhost:63938/ja/tags/poem/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -328,11 +328,11 @@
       
       <item>
         <title>Shortcode</title>
-        <link>http://localhost:1313/ja/tags/shortcode/</link>
+        <link>http://localhost:63938/ja/tags/shortcode/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/shortcode/</guid>
+        <guid>http://localhost:63938/ja/tags/shortcode/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -346,11 +346,11 @@
       
       <item>
         <title>Css</title>
-        <link>http://localhost:1313/ja/tags/css/</link>
+        <link>http://localhost:63938/ja/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/css/</guid>
+        <guid>http://localhost:63938/ja/tags/css/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -364,11 +364,11 @@
       
       <item>
         <title>Html</title>
-        <link>http://localhost:1313/ja/tags/html/</link>
+        <link>http://localhost:63938/ja/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/html/</guid>
+        <guid>http://localhost:63938/ja/tags/html/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -382,11 +382,11 @@
       
       <item>
         <title>Markdown</title>
-        <link>http://localhost:1313/ja/tags/markdown/</link>
+        <link>http://localhost:63938/ja/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/markdown/</guid>
+        <guid>http://localhost:63938/ja/tags/markdown/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -400,11 +400,11 @@
       
       <item>
         <title>Themes</title>
-        <link>http://localhost:1313/ja/tags/themes/</link>
+        <link>http://localhost:63938/ja/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/themes/</guid>
+        <guid>http://localhost:63938/ja/tags/themes/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -418,11 +418,11 @@
       
       <item>
         <title>Privacy</title>
-        <link>http://localhost:1313/ja/tags/privacy/</link>
+        <link>http://localhost:63938/ja/tags/privacy/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/privacy/</guid>
+        <guid>http://localhost:63938/ja/tags/privacy/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -436,11 +436,11 @@
       
       <item>
         <title>Shortcodes</title>
-        <link>http://localhost:1313/ja/tags/shortcodes/</link>
+        <link>http://localhost:63938/ja/tags/shortcodes/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/shortcodes/</guid>
+        <guid>http://localhost:63938/ja/tags/shortcodes/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -454,11 +454,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>http://localhost:1313/ja/tags/hugo/</link>
+        <link>http://localhost:63938/ja/tags/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/hugo/</guid>
+        <guid>http://localhost:63938/ja/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -472,11 +472,11 @@
       
       <item>
         <title>Amoji</title>
-        <link>http://localhost:1313/ja/tags/amoji/</link>
+        <link>http://localhost:63938/ja/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/amoji/</guid>
+        <guid>http://localhost:63938/ja/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -490,11 +490,11 @@
       
       <item>
         <title>Bamoji</title>
-        <link>http://localhost:1313/ja/tags/bamoji/</link>
+        <link>http://localhost:63938/ja/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/bamoji/</guid>
+        <guid>http://localhost:63938/ja/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -508,11 +508,11 @@
       
       <item>
         <title>Emoji</title>
-        <link>http://localhost:1313/ja/tags/emoji/</link>
+        <link>http://localhost:63938/ja/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/emoji/</guid>
+        <guid>http://localhost:63938/ja/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -526,11 +526,11 @@
       
       <item>
         <title>Gamoji</title>
-        <link>http://localhost:1313/ja/tags/gamoji/</link>
+        <link>http://localhost:63938/ja/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/gamoji/</guid>
+        <guid>http://localhost:63938/ja/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -544,11 +544,11 @@
       
       <item>
         <title>Namoji</title>
-        <link>http://localhost:1313/ja/tags/namoji/</link>
+        <link>http://localhost:63938/ja/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/namoji/</guid>
+        <guid>http://localhost:63938/ja/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
@@ -562,11 +562,11 @@
       
       <item>
         <title>Diagram</title>
-        <link>http://localhost:1313/ja/tags/diagram/</link>
+        <link>http://localhost:63938/ja/tags/diagram/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         
-        <guid>http://localhost:1313/ja/tags/diagram/</guid>
+        <guid>http://localhost:63938/ja/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>busitora</dc:creator>
