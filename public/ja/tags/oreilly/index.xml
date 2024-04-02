@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Oreilly on busitora blog</title>
-    <link>http://localhost:63938/ja/tags/oreilly/</link>
+    <link>http://localhost:1313/ja/tags/oreilly/</link>
     <description>Recent content in Oreilly on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:63938/ja/tags/oreilly/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ja/tags/oreilly/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>プログラミングTypeScriptのメモ</title>
-        <link>http://localhost:63938/ja/posts/tech/2022/02/06/</link>
+        <link>http://localhost:1313/ja/posts/tech/2022/02/06/</link>
         <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sun, 06 Feb 2022 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:63938/ja/posts/tech/2022/02/06/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2022/02/06/</guid>
         <description>そろそろ体系的に学ぶ必要のあるTypeScriptのメモ ORELLYのTypeScriptを読むので、雑にメモしてく。 タイトルごとに区分する</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:63938/images/typescript/oreilly-typescript.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/typescript/oreilly-typescript.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

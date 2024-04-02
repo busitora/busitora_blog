@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on 쪼식이 블로그</title>
-    <link>http://localhost:63938/ko/categories/</link>
+    <link>http://localhost:1313/ko/categories/</link>
     <description>Recent content in Categories on 쪼식이 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>busitora@gmail.com (busitora)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     
-        <atom:link href="http://localhost:63938/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
