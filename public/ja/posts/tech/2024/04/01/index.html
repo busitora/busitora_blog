@@ -1840,6 +1840,29 @@
 </div>
 </div><p>確かにだいぶ堅牢↑<br />
 定数を外部に切り出したり、複数指定考慮もいるかもだが、上記までやればだいたい事足りそう</p>
+<h2 id="4章-不変の活用">4章 不変の活用</h2>
+<p>可変(ミュータブル)と不変(イミュータブル)の話。</p>
+<ul>
+<li>変数を再代入するのはダメ🙅‍♂</li>
+<li>引数を変数として扱って、再代入するのはダメ🙅‍♂</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-ruby" data-lang="ruby"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">cal_money</span><span class="p">(</span><span class="ss">price</span><span class="p">:)</span>
+</span></span><span class="line"><span class="cl"> <span class="n">price</span> <span class="o">=</span> <span class="n">price</span> <span class="o">*</span> <span class="mi">10</span>
+</span></span><span class="line"><span class="cl"> <span class="c1"># 引数は餌にして使って変数として使うな </span>
+</span></span><span class="line"><span class="cl"><span class="k">end</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>インスタンスを使い回すのダメ🙅‍♂</li>
+</ul>
 <h2 id="全体の感想">全体の感想</h2>
 <ul>
 <li>2章 → 関係し合うデータをクラスにまとめて、低凝集を避けるアプローチは常に頭にいれることが大切</li>
@@ -1848,6 +1871,7 @@
 <li>完全コンストラクタ意識もっと強める。無駄に setter 使うのは避けること</li>
 </ul>
 </li>
+<li>4章 → Rubyは非常に可変性の高い言語であることを受け入れ、単純に規律を定める方が、より現実的。</li>
 </ul>
 
     </article>
@@ -2585,6 +2609,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#1章-悪しき構造の弊害を知覚する">1章 悪しき構造の弊害を知覚する</a></li>
     <li><a href="#2章-設計の初歩">2章 設計の初歩</a></li>
     <li><a href="#3章-クラス設計">3章 クラス設計</a></li>
+    <li><a href="#4章-不変の活用">4章 不変の活用</a></li>
     <li><a href="#全体の感想">全体の感想</a></li>
   </ul>
 </nav>
