@@ -1678,7 +1678,7 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2024/4/1 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;3&nbsp;分で読めます </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;4&nbsp;分で読めます </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="著者">🐯&nbsp;ブシトラ</span>
   
@@ -1863,6 +1863,52 @@
 </div><ul>
 <li>インスタンスを使い回すのダメ🙅‍♂</li>
 </ul>
+<h2 id="5章-低凝集">5章 低凝集</h2>
+<p>メソッド内の凝集度の話。</p>
+<ul>
+<li>
+<p>凝集度</p>
+<ul>
+<li>モジュール（クラス）内におけるデータとロジックの関係性の強さを表す指標</li>
+</ul>
+</li>
+<li>
+<p><a href="https://refactoring.guru/ja/design-patterns/factory-method">FactoryMethod使おう</a></p>
+<ul>
+<li>初期化処理が膨大になるようなら別のファクトリクラスを検討</li>
+</ul>
+</li>
+</ul>
+<p>オブジェクト指向の基本に基づき、設計をすること<br />
+ユースケースに対応する事柄である<strong>横断的関心事</strong>であれば、共通化してもいい</p>
+<ul>
+<li>引数を変更して出力する出力引数はNG</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-ruby" data-lang="ruby"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">sum</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">sum</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</span></span><span class="line"><span class="cl"><span class="k">end</span>
+</span></span><span class="line"><span class="cl"><span class="n">sum</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl"><span class="n">add</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="n">sum</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">puts</span> <span class="n">sum</span>  <span class="c1"># 出力結果: 0</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># 最後のsumはaddメソッドとは別</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>メソッドで引数が多いものは低凝集になりがちなので注意せよ</li>
+<li>プリミティブ型執着もしないように。</li>
+<li>メソッドチェインはデメテルの法則に違反するので、NG</li>
+</ul>
 <h2 id="全体の感想">全体の感想</h2>
 <ul>
 <li>2章 → 関係し合うデータをクラスにまとめて、低凝集を避けるアプローチは常に頭にいれることが大切</li>
@@ -1872,6 +1918,11 @@
 </ul>
 </li>
 <li>4章 → Rubyは非常に可変性の高い言語であることを受け入れ、単純に規律を定める方が、より現実的。</li>
+<li>5章 → UtilityCommonという悪魔のメソッドが2万行になったことがある。と上司が言っていたのを思い出した
+<ul>
+<li>メソッドチェイン使いがちになるときにはその前で early return とかしてあげないとバグが頻出する</li>
+</ul>
+</li>
 </ul>
 
     </article>
@@ -2610,6 +2661,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#2章-設計の初歩">2章 設計の初歩</a></li>
     <li><a href="#3章-クラス設計">3章 クラス設計</a></li>
     <li><a href="#4章-不変の活用">4章 不変の活用</a></li>
+    <li><a href="#5章-低凝集">5章 低凝集</a></li>
     <li><a href="#全体の感想">全体の感想</a></li>
   </ul>
 </nav>
