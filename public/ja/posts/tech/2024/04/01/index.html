@@ -1909,6 +1909,32 @@
 <li>プリミティブ型執着もしないように。</li>
 <li>メソッドチェインはデメテルの法則に違反するので、NG</li>
 </ul>
+<h2 id="6章-条件分岐">6章 条件分岐</h2>
+<ul>
+<li>条件分岐のネストは悪of悪
+<ul>
+<li>早期returnしよう</li>
+<li>else や elsif も 早期returnしよう</li>
+</ul>
+</li>
+<li>switch文(case)が増えたらまずはまとめることを意識
+<ul>
+<li>型でinterface毎にクラス設定して、分岐処理を抽象レイヤーで処理</li>
+</ul>
+</li>
+<li>ストラテジーパターン使って、処理を切り替えることが大事</li>
+<li>Policyメソッドを使うのもいい</li>
+<li><a href="https://techracho.bpsinc.jp/hachi8833/2018_05_28/56167">フラグ引数はアンチパターン</a>
+<ul>
+<li>何が起こるかを読み手に強要している
+<ul>
+<li>true/false でメソッドを分けるようにすること</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://speakerdeck.com/minodriven/kusokododong-hua-switchwen-jie-shuo?slide=26">クソコード動画「switch文」解説</a></p>
 <h2 id="全体の感想">全体の感想</h2>
 <ul>
 <li>2章 → 関係し合うデータをクラスにまとめて、低凝集を避けるアプローチは常に頭にいれることが大切</li>
@@ -1921,6 +1947,12 @@
 <li>5章 → UtilityCommonという悪魔のメソッドが2万行になったことがある。と上司が言っていたのを思い出した
 <ul>
 <li>メソッドチェイン使いがちになるときにはその前で early return とかしてあげないとバグが頻出する</li>
+</ul>
+</li>
+<li>6章 → Rubyでインターフェイスを実装するのは難しそう? Ruby3の<a href="https://github.com/ruby/rbs">RBS</a>ならそれっぽいことができるっぽい
+<ul>
+<li>静的型付け言語を第二の親として、インターフェイスを呼吸するように設計したいな</li>
+<li><a href="https://qiita.com/NagaokaKenichi/items/22972e6ba698c7f2978a">コードの不吉な臭いに敏感になろう委員会</a></li>
 </ul>
 </li>
 </ul>
@@ -2662,6 +2694,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#3章-クラス設計">3章 クラス設計</a></li>
     <li><a href="#4章-不変の活用">4章 不変の活用</a></li>
     <li><a href="#5章-低凝集">5章 低凝集</a></li>
+    <li><a href="#6章-条件分岐">6章 条件分岐</a></li>
     <li><a href="#全体の感想">全体の感想</a></li>
   </ul>
 </nav>
