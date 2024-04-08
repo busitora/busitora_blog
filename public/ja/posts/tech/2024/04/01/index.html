@@ -1678,7 +1678,7 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2024/4/1 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;4&nbsp;分で読めます </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;5&nbsp;分で読めます </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="著者">🐯&nbsp;ブシトラ</span>
   
@@ -1935,6 +1935,28 @@
 </li>
 </ul>
 <p><a href="https://speakerdeck.com/minodriven/kusokododong-hua-switchwen-jie-shuo?slide=26">クソコード動画「switch文」解説</a></p>
+<h2 id="7章-コレクション-ネストを解消する構造化技法">7章 コレクション ~ネストを解消する構造化技法~</h2>
+<ul>
+<li>車輪の再発明しないこと(例では、JavaのanyMatch)
+<ul>
+<li>車輪の再発明の下位互換を四角い車輪の発明という</li>
+</ul>
+</li>
+<li>ループ処理の条件分岐ネストは悪なので、早期continue(Rubyならnextか)やbreakでネスト解消しよう
+<ul>
+<li>基本的にifの中で処理が散らばれば、早期 breakできないか考える</li>
+</ul>
+</li>
+<li>コレクション処理が複雑になったらカプセル化させる
+<ul>
+<li>(ファーストクラスコレクション)[https://qiita.com/gashiura/items/999a8c36e47a07fa4b27]
+<ul>
+<li>対象の配列に対する処理を全て集約したクラスになります。別名コレクションオブジェクト</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <h2 id="全体の感想">全体の感想</h2>
 <ul>
 <li>2章 → 関係し合うデータをクラスにまとめて、低凝集を避けるアプローチは常に頭にいれることが大切</li>
@@ -1955,6 +1977,7 @@
 <li><a href="https://qiita.com/NagaokaKenichi/items/22972e6ba698c7f2978a">コードの不吉な臭いに敏感になろう委員会</a></li>
 </ul>
 </li>
+<li>7章 → ファーストクラスコレクション意識したい</li>
 </ul>
 
     </article>
@@ -2695,6 +2718,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#4章-不変の活用">4章 不変の活用</a></li>
     <li><a href="#5章-低凝集">5章 低凝集</a></li>
     <li><a href="#6章-条件分岐">6章 条件分岐</a></li>
+    <li><a href="#7章-コレクション-ネストを解消する構造化技法">7章 コレクション ~ネストを解消する構造化技法~</a></li>
     <li><a href="#全体の感想">全体の感想</a></li>
   </ul>
 </nav>
