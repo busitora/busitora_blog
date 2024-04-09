@@ -6,7 +6,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:65388/ja/categories/"
+                href="http://localhost:65388/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:65388/ja/series/"
+                href="http://localhost:65388/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -40,7 +40,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:65388/ja/tags/"
+                href="http://localhost:65388/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,7 +57,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:65388/ja/"
+                href="http://localhost:65388/"
                 />
     <xhtml:link
                 rel="alternate"
