@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Diagram on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/diagram/</link>
+    <link>http://localhost:65388/ja/tags/diagram/</link>
     <description>Recent content in Diagram on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:65388/ja/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Mermaid support</title>
-        <link>http://localhost:1313/ja/posts/test-mermaid/</link>
+        <link>http://localhost:65388/ja/posts/test-mermaid/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://localhost:1313/ja/posts/test-mermaid/</guid>
+        <guid>http://localhost:65388/ja/posts/test-mermaid/</guid>
         <description>graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; sequenceDiagram participant Alice participant Bob Alice-&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail... John--&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob--&amp;gt;John: Jolly good! graph TD A[Hard] --&amp;gt;|Text| B(Round) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result 1] C --&amp;gt;|Two| E[Result 2] gantt section Section Completed :done, des1, 2014-01-06,2014-01-08 Active :active, des2, 2014-01-07, 3d Parallel 1 : des3, after des1, 1d Parallel 2 : des4, after des1, 1d Parallel 3 : des5, after des3, 1d Parallel 4 : des6, after des4, 1d classDiagram Class01 &amp;lt;|-- AveryLongClass : Cool &amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01 Class09 --&amp;gt; C2 : Where am i?</description>
         
         <dc:creator>busitora</dc:creator>
-        <media:content url="http://localhost:1313/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:65388/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
