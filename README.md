@@ -1,9 +1,6 @@
-## 作成中
+## URL
 
-https://busitora-blog.netlify.app/ja/
-
-公開はしていますが、まだ設定もろもろ初期のままのところもあるで御了承ください。
-
+https://busitora.blog/
 
 ## 作業用メモ
 
