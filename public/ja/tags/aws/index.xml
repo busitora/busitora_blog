@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Aws on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/aws/</link>
+    <link>http://localhost:65388/ja/tags/aws/</link>
     <description>Recent content in Aws on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:65388/ja/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>[WIP]AWSコンテナ設計・構築 本格入門</title>
-        <link>http://localhost:1313/ja/posts/tech/2021/11/28/</link>
+        <link>http://localhost:65388/ja/posts/tech/2021/11/28/</link>
         <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Wed, 10 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:1313/ja/posts/tech/2021/11/28/</guid>
+        <guid>http://localhost:65388/ja/posts/tech/2021/11/28/</guid>
         <description>はじめに AWSコンテナ設計・構築［本格］入門を読んで見る。 1 コンテナの概要 1-1 コンテナの説明 メリット 環境依存からの開放 環境構築やテストに関する</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/images/aws/aws-honkaku.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:65388/images/aws/aws-honkaku.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -46,15 +46,15 @@
       
       <item>
         <title>Lambda触ってみる</title>
-        <link>http://localhost:1313/ja/posts/tech/2021/11/10/</link>
+        <link>http://localhost:65388/ja/posts/tech/2021/11/10/</link>
         <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Wed, 10 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:1313/ja/posts/tech/2021/11/10/</guid>
+        <guid>http://localhost:65388/ja/posts/tech/2021/11/10/</guid>
         <description>はじめに サーバーレスの関数実行で便利とは聞いているが、実際に触ったことがないので、メモ(hello worldをconsole上レベル) AWS La</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:1313/images/aws/lambda.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:65388/images/aws/lambda.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

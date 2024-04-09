@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Shortcode on busitora blog</title>
-    <link>http://localhost:1313/ja/tags/shortcode/</link>
+    <link>http://localhost:65388/ja/tags/shortcode/</link>
     <description>Recent content in Shortcode on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ja/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:65388/ja/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>ショートコード</title>
-        <link>http://localhost:1313/ja/posts/shortcodes/</link>
+        <link>http://localhost:65388/ja/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://localhost:1313/ja/posts/shortcodes/</guid>
+        <guid>http://localhost:65388/ja/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different code java javascript 1 System.out.println(&amp;#39;Hello World!&amp;#39;); 1 console.log(&amp;#39;Hello World!&amp;#39;); Tabs for general purpose Windows MacOS Ubuntu Windows section 1 console.log(&amp;#39;Hello World!&amp;#39;); ⚠️Becareful that the content in the tab should be different from each other. The tab makes unique id</description>
         
         <dc:creator>busitora</dc:creator>
-        <media:content url="http://localhost:1313/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:65388/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
