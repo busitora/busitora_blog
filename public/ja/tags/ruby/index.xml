@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Ruby on busitora blog</title>
-    <link>http://localhost:65388/ja/tags/ruby/</link>
+    <link>http://localhost:1313/ja/tags/ruby/</link>
     <description>Recent content in Ruby on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:65388/ja/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ja/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>メタプログラミングRuby</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/12/29/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/12/29/</link>
         <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Wed, 29 Dec 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/12/29/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/12/29/</guid>
         <description>気になっていた。メタプロ。 感想を書いていく。 はじめに RubyやRuby on Railsを使いたい人は読むといいぽい メタプログラミングはLispか</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/ruby/metapuro-ruby.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/ruby/metapuro-ruby.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -50,15 +50,15 @@
       
       <item>
         <title>オブジェクト指向設計ガイド</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/11/11/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/11/11/</link>
         <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Thu, 11 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/11/11/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/11/11/</guid>
         <description>はじめに オブジェクト指向設計ガイド を会社で輪読会しているので、箇条書きでメモ 概要まとめてくれてる記事はあるので、重複がないようにする 1章 オブ</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/ruby/object-ruby.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/ruby/object-ruby.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

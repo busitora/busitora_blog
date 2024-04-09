@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Rails on busitora blog</title>
-    <link>http://localhost:65388/ja/tags/rails/</link>
+    <link>http://localhost:1313/ja/tags/rails/</link>
     <description>Recent content in Rails on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:65388/ja/tags/rails/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ja/tags/rails/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>RSpec指針</title>
-        <link>http://localhost:65388/ja/posts/tech/2022/02/01/</link>
+        <link>http://localhost:1313/ja/posts/tech/2022/02/01/</link>
         <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Tue, 01 Feb 2022 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2022/02/01/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2022/02/01/</guid>
         <description>RSpecの個人的に指針を書く</description>
         
         <dc:creator>ブシトラ</dc:creator>
@@ -50,15 +50,15 @@
       
       <item>
         <title>committeeを使ったSchema駆動開発</title>
-        <link>http://localhost:65388/ja/posts/tech/2022/01/22/</link>
+        <link>http://localhost:1313/ja/posts/tech/2022/01/22/</link>
         <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sat, 22 Jan 2022 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2022/01/22/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2022/01/22/</guid>
         <description>実務で、committeeを導入したので、その時のメモを書く。 経緯と問題点 弊社のサービスAは、モノリスなRailsのアプリケーションであるが</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/ruby/committee.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/ruby/committee.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

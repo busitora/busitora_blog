@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SQL on busitora blog</title>
-    <link>http://localhost:65388/ja/tags/sql/</link>
+    <link>http://localhost:1313/ja/tags/sql/</link>
     <description>Recent content in SQL on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:65388/ja/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ja/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>自己相関サブクエリを使ってupdateするには</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/10/12/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/10/12/</link>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Tue, 12 Oct 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/10/12/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/10/12/</guid>
         <description>タイトルの通り 調べてみても、 古い記事が多かったので自分用にメモ。 やりたいこと 「tables の column_b(int) に対して column_a(bool) を参照して一括で全部更新したい」 column_b は</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/db/sql.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/db/sql.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

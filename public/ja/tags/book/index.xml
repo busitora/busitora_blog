@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Book on busitora blog</title>
-    <link>http://localhost:65388/ja/tags/book/</link>
+    <link>http://localhost:1313/ja/tags/book/</link>
     <description>Recent content in Book on busitora blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:65388/ja/tags/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ja/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>良いコード/悪いコードで学ぶ設計入門</title>
-        <link>http://localhost:65388/ja/posts/tech/2024/04/01/</link>
+        <link>http://localhost:1313/ja/posts/tech/2024/04/01/</link>
         <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Mon, 01 Apr 2024 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2024/04/01/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2024/04/01/</guid>
         <description>設計本についてはいくつか読んでいるが、ミノ駆動さんの書籍ということで 興味が出たので読む。新たな知識をメモしていく 1章 悪しき構造の弊害を知覚す</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/book/code_design.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/code_design.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -46,15 +46,15 @@
       
       <item>
         <title>システム設計の面接試験のメモ</title>
-        <link>http://localhost:65388/ja/posts/tech/2024/03/23/</link>
+        <link>http://localhost:1313/ja/posts/tech/2024/03/23/</link>
         <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sat, 23 Mar 2024 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2024/03/23/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2024/03/23/</guid>
         <description>輪読会で読むことになったので、メモ 1章 ユーザー数0から数百万人のスケールアップ トラフィックをさばくための説明が多い。 非リレーショナルデータベ</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/book/system_interview.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/book/system_interview.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -70,15 +70,15 @@
       
       <item>
         <title>メタプログラミングRuby</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/12/29/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/12/29/</link>
         <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Wed, 29 Dec 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/12/29/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/12/29/</guid>
         <description>気になっていた。メタプロ。 感想を書いていく。 はじめに RubyやRuby on Railsを使いたい人は読むといいぽい メタプログラミングはLispか</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/ruby/metapuro-ruby.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/ruby/metapuro-ruby.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -98,15 +98,15 @@
       
       <item>
         <title>テスト駆動開発</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/09/22/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/09/22/</link>
         <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Thu, 23 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/09/22/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/09/22/</guid>
         <description>はじめに 実務でテストの重要性を嫌というほど感じているので、読む。 自分用メモで気づきメインで書くので、 詳しく知りたい人は購入することを推奨。 こ</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/test/test-driven-development.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/test/test-driven-development.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -126,15 +126,15 @@
       
       <item>
         <title>達人に学ぶDB設計徹底指南書</title>
-        <link>http://localhost:65388/ja/posts/tech/2021/09/19/</link>
+        <link>http://localhost:1313/ja/posts/tech/2021/09/19/</link>
         <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
         <author>busitora@gmail.com (busitora)</author>
         <atom:modified>Sun, 19 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:65388/ja/posts/tech/2021/09/19/</guid>
+        <guid>http://localhost:1313/ja/posts/tech/2021/09/19/</guid>
         <description>はじめに DB設計を、基礎からもう一度学んで みたいと思い達人に学ぶDB設計徹底指南書を購入。 自分用メモで気づきメインで書くので、 詳しく知りたい</description>
         
         <dc:creator>ブシトラ</dc:creator>
-        <media:content url="http://localhost:65388/images/db/db-sinansho.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/db/db-sinansho.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
