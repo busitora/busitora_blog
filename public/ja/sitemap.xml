@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>http://localhost:65388/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -27,16 +27,16 @@
                 />
   </url><url>
     <loc>http://localhost:65388/tags/book/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:65388/tags/index/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:65388/posts/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:65388/tags/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -52,6 +52,9 @@
                 hreflang="ja"
                 href="http://localhost:65388/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:65388/posts/tech/2024/05/02/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:65388/posts/tech/2024/04/26/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
